@@ -7,3 +7,13 @@ Reading Research papers
 pipelines 
 stable diffusion
 streamlit
+new things:
+  Deepnote
+  DVC (Data Version Control):
+  MLflow
+  ci/cd 
+  Microsoft Azure Notebooks
+  IBM Watson Studio
+  GloVe
+  Word2Vec
+  Word embedding 
