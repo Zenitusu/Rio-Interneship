@@ -1,0 +1,9 @@
+Things i learned from these project 
+Localtunnel 
+Deep learning models - gan,rnn,cnn,fnn
+Transformsers
+Encoder and Decoder
+Reading Research papers
+pipelines 
+stable diffusion
+streamlit
