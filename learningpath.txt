@@ -1,0 +1,19 @@
+Things i learned from these project 
+Localtunnel 
+Deep learning models - gan,rnn,cnn,fnn
+Transformsers
+Encoder and Decoder
+Reading Research papers
+pipelines 
+stable diffusion
+streamlit
+new things:
+  Deepnote
+  DVC (Data Version Control):
+  MLflow
+  ci/cd 
+  Microsoft Azure Notebooks
+  IBM Watson Studio
+  GloVe
+  Word2Vec
+  Word embedding 
