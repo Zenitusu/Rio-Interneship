@@ -14,3 +14,6 @@ sequencetaggerline
 
 bi lstm 
 gec benchmarks - transformers
+
+Output:
+![Screenshot 2024-04-30 080532](https://github.com/Zenitusu/Rio-Interneship/assets/117066441/2fdaf8a4-7742-4447-9c0a-406cd6fbbdfb)
