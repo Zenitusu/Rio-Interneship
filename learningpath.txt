@@ -7,7 +7,6 @@ Reading Research papers
 pipelines 
 stable diffusion
 streamlit
-new things:
   Deepnote
   DVC (Data Version Control):
   MLflow
@@ -17,3 +16,15 @@ new things:
   GloVe
   Word2Vec
   Word embedding 
+Gensim
+corpus
+lemmatization
+stemming
+tolkenization
+stop words removal
+flan-t5
+Encoder-Decoder Transformers
+Autoencoder Transformers
+BERT (Bidirectional Encoder Representations from Transformers)
+GPT (Generative Pre-trained Transformer)
+T5 (Text-To-Text Transfer Transformer)
